@@ -1,0 +1,129 @@
+{
+	"fileType": "actions-sublist",
+	"siteVersion": "2.32.0",
+	"items": [
+		{
+			"h": "activate%20an%20item_dmg"
+		},
+		{
+			"h": "attack_xphb"
+		},
+		{
+			"h": "climb%20onto%20a%20bigger%20creature_dmg"
+		},
+		{
+			"h": "dash_xphb"
+		},
+		{
+			"h": "disarm_dmg"
+		},
+		{
+			"h": "disengage_xphb"
+		},
+		{
+			"h": "dodge_xphb"
+		},
+		{
+			"h": "don%20or%20doff%20a%20shield_xphb"
+		},
+		{
+			"h": "end%20concentration_xphb"
+		},
+		{
+			"h": "escape%20a%20grapple_xphb"
+		},
+		{
+			"h": "gather%20rumours_tlotrr"
+		},
+		{
+			"h": "heal%20scars_tlotrr"
+		},
+		{
+			"h": "healing%20surge_dmg"
+		},
+		{
+			"h": "help_xphb"
+		},
+		{
+			"h": "hide_xphb"
+		},
+		{
+			"h": "identify%20a%20spell_xge"
+		},
+		{
+			"h": "improvising%20an%20action_xphb"
+		},
+		{
+			"h": "influence_xphb"
+		},
+		{
+			"h": "magic_xphb"
+		},
+		{
+			"h": "mark_dmg"
+		},
+		{
+			"h": "meet%20patron_tlotrr"
+		},
+		{
+			"h": "opportunity%20attack_xphb"
+		},
+		{
+			"h": "other%20activity_phb"
+		},
+		{
+			"h": "overrun_dmg"
+		},
+		{
+			"h": "ponder%20storied%20and%20figured%20maps_tlotrr"
+		},
+		{
+			"h": "raise%20an%20heir_tlotrr"
+		},
+		{
+			"h": "ready_xphb"
+		},
+		{
+			"h": "recount%20a%20story_tlotrr"
+		},
+		{
+			"h": "search_xphb"
+		},
+		{
+			"h": "shove%20aside_dmg"
+		},
+		{
+			"h": "strengthen%20fellowship_tlotrr"
+		},
+		{
+			"h": "study_xphb"
+		},
+		{
+			"h": "study%20magical%20items_tlotrr"
+		},
+		{
+			"h": "tumble_dmg"
+		},
+		{
+			"h": "two-weapon%20fighting_xphb"
+		},
+		{
+			"h": "utilize_xphb"
+		},
+		{
+			"h": "waking%20someone_xge"
+		},
+		{
+			"h": "write%20a%20song_tlotrr"
+		}
+	],
+	"sources": [
+		"DMG",
+		"XPHB",
+		"TLotRR",
+		"XGE",
+		"PHB"
+	],
+	"name": "all actions",
+	"saveId": "6578d0ff-26ab-4ee7-9f3a-5c64c976bb33"
+}
